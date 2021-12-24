@@ -1,2 +1,3 @@
-# Testing GitHub
-## Simple python task from SoftUni exercise
+Testing GitHub 
+
+Simple python task from SoftUni exercise
